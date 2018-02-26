@@ -1,6 +1,6 @@
 NAME=sdl-net
 VERSION=1.2.8
-REVISION=1
+REVISION=2
 LICENSE=zlib
 SRC=https://www.libsdl.org/projects/SDL_net/release/SDL_net-1.2.8.tar.gz
 SRCMD5=20e64e61d65662db66c379034f11f718
